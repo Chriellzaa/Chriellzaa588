@@ -1,0 +1,26 @@
+{
+  "name": "Sally Nichols",
+  "age": 40,
+  "address": {
+    "street": "Usabih Point",
+    "city": "Cuumadad",
+    "state": "MS",
+    "zip": "65280"
+  },
+  "contact": {
+    "phone": "(561) 329-9177",
+    "servicePhone": "800624673"
+  },
+  "birthday": "1968-02-09T02:28:04.083Z",
+  "ip": "102.23.16.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Egu wapuc zoz toiwo ri hihme jif sedsedud roj rizvup setve jinuek tola roez otpip nedih icemam riwowoge. Niprol vucruk kekwuc omeotdop jidev febmi nopo ringi fap tutdijow nudi luhol konefaida konsiuz eduakiihi fe cezvide afufe. Owaana maihfas mikusen mi fardud uhzov zikelcid dumvilij ifisasri sowak pidiz kar farabu kaficwok vikelwav erbab. Ri vevek cupeeh loleh cec gukolu lagfu aznu fusofu wuzalco ezokoeni acetuha suhuh vonpufo dit nivuccul tazacgig.",
+    "bio": "Mamwecne palibba vuri tajonse tawazwuh ve nagreubi piped fep uru elwo si. Jovuf ojmuva wajanniw haligbu go icisan juv pitohow in towpaad pedoc felbofu ka vijvun ki geli likijuro. Muw lotlomeb bizaehu mugefu avo fajepita cirag dol lafesmo umogigac wuwniw budwipsi."
+  },
+  "apiKey": "0c1e2329798553b5765cb3e79a08f76ce5793ebf31aa0c93354946a98f7e6e72",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
