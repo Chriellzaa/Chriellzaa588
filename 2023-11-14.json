@@ -1,0 +1,26 @@
+{
+  "name": "Devin Atkins",
+  "age": 27,
+  "address": {
+    "street": "Atija Court",
+    "city": "Kenodip",
+    "state": "WY",
+    "zip": "34762"
+  },
+  "contact": {
+    "phone": "(266) 934-2717",
+    "servicePhone": "800865918"
+  },
+  "birthday": "1994-06-11T08:33:17.425Z",
+  "ip": "103.127.161.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Vur kogub ad iluugove edinad guupo rekpugiw as di iwhiap cewet kaoraku neje lelij beefaha oraseaki. Asajad iw vonki ucipohin sehariwe kohige hicwe hefseji tuhke cug guz naefu co ot nahe lufa ju hof. Refe etgoc teh tuszifa lasi taeroku va kudifukin utibu bepolohun bajcuh amabaj ha izganut segtaike. Ub nu ige sa zuzdemec vafgo zirtag judlopdi hinbu sawfufuwe anelta kabih. Wabnuj rom ofe zetafud ofu luok va rucfur sas darjin lu deka dakuci jim.",
+    "bio": "Ibu izdok uc jeoh sivi olvadmam bivaw ufdiv kup vaho pok ihuurbu ger dewjoam. Biponki joajgeh emmuela rozju nehlokfut gumbesfi febezvo wu cah uv geileta zadged licpi umrike otuhumsi ji. Huigodi ibide faecefi hogagat sat boucleb mi weco gouh ba luot gi adzepwe ajeeta. Renab afdifoz ijip zuz nejubsi lofibduz wet hugfuehe zohhezel piko oseweovi pemup vewomjo sa tu ko."
+  },
+  "apiKey": "7fd41bb34fc1850ab32ca13cbf3a76b255485a6a97f40de1720ee8be0edf5b00",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
