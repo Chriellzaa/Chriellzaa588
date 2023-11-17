@@ -1,0 +1,26 @@
+{
+  "name": "Nora Drake",
+  "age": 32,
+  "address": {
+    "street": "Lusbe Place",
+    "city": "Objiko",
+    "state": "NY",
+    "zip": "70718"
+  },
+  "contact": {
+    "phone": "(786) 943-6824",
+    "servicePhone": "800553968"
+  },
+  "birthday": "1965-07-04T09:42:04.327Z",
+  "ip": "243.24.222.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Cobe gepec gukar tur op tivruri oto nusle otu jujer dulamruc tavrane ma wa ahuamaz. Bicbeik ovre mit zosin eve falpod iriposni johevubu ri hamzobizo oritim eretaka hi etiduica we. Mo fahbav luj pej zuw foku emu ji neuwo nere ogeravzu bup visomahe vihzimdi pe esi tefubeb. Mezmuluma tuh reopten ke pi ju nerihip cubuhful volik civ mukaru eboedena ri.",
+    "bio": "Gavidu peppib nobe ibza tip dunvu cifmas levedu fo azrohto zeniz saebcap foz kagbojvi web duded uju. Lepnas jatjidok jofbilig uhemocu nakahugal ru ed icfeve zile abacephus ara donuvhoh finmu tawgec juelho. Firmi rojuk ezaavma jetpetpup kout nu fon bofbe ju adbenvos piap gour mazipa. Li gen ut ivi soba fu haftej juzeed evaves vumzo emosotfi gekunnar kapufig hu atriv zuh. Fokbokri lecbad wukoce faivagab imkatze fatfiwro tojli ij pesug ipu ekohowvi po tevfu bomhac ebirudci dudo omnemwuk siejga. Wa cecbi gic wibwu punumze mot saz wengin hufu ceh ibucuda sohsar uwomis."
+  },
+  "apiKey": "8930861e0fc2b31d9b0fa37de7e121f334568b3928692b34c106525ba3411c8b",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
