@@ -1,0 +1,26 @@
+{
+  "name": "Hallie Abbott",
+  "age": 45,
+  "address": {
+    "street": "Uhefa Street",
+    "city": "Ajedutuk",
+    "state": "IL",
+    "zip": "82937"
+  },
+  "contact": {
+    "phone": "(859) 800-6535",
+    "servicePhone": "800417315"
+  },
+  "birthday": "1983-03-15T08:39:35.015Z",
+  "ip": "102.74.168.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Riwi baupuse ohavu soc manolsu opure dunga kul sek zep uvujem em osoapifaz hi egafasgu ga juhur. Wuwu zosioga fegitoecu ni cogiz malsu ife hefow ajarer zizeb raziduke ho in ihcej hid wigce gerlohhog. Apfoneze epi sesgi ocu bewle rargisju zuha hilog uk akowa bogwog fe jusaj.",
+    "bio": "Vezmod gadbuv vaznotka ifati kazuftab rib sut hija cok ki onvo wowjejis gur lozouri now. Uzuodbez owsofaw nafamzin itebo giseczic zugo vakuw leserur vu tebroc pahemhe acno pokzu dijivhe tuz. Zicu moj azubi fuvmi wakinruz dinapgek us utajajuv razgi ezi capegfo kuwa fi omipezja. Wa uvtabeh ala ko kookiwa ezi zinotiva bafim jef paf erluk uwube acaveca. Zagaozu car canutaze asuotezov ajkinwe cawobezoc buwo siro hebulreg fonci owveb jodhes it fusi no on kerruna. Sekagusos gogjipep nom tubsacop pukatwon kupi wu gazutot fusik gusjo silol cepazel dil."
+  },
+  "apiKey": "99fbbf4a6015e80f2b4b75c70dffa4d8a576022711b576dc74c87e4ca73ff17f",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
