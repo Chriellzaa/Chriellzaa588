@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Tate",
+  "age": 55,
+  "address": {
+    "street": "Veto View",
+    "city": "Wacofu",
+    "state": "KS",
+    "zip": "27034"
+  },
+  "contact": {
+    "phone": "(524) 749-2548",
+    "servicePhone": "800355264"
+  },
+  "birthday": "1962-01-31T10:25:37.754Z",
+  "ip": "71.29.155.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Nobju zitalniz hof ita je wijhin teubo poho ic keze peho hictove igescic vozsebke. Kuorous abe tofvugem rupli tempe fehiso nu eda ci suipusin beni magti kawsulcu. Vojpasme orpekot eduzog bu cog hazov wisem ejsa du teupli ocootfut ehiperu. Zosriplev madoz hidoosi utpevjug ce geb gina vatiha dizustet rozimib ervo sir. Nup lik duabi bioc daciredes zih pugco uhce temkideh nozuij niz gehodjez zumjar ijofo si nouwisiz.",
+    "bio": "Wif ve tatzit wugivjef osusi bubjog ati nommocko suf zojisvig ladelwed vak pukozpa ehu wu ohugu abrir. Vuz cut bo kimfum golgitfam him il ki hi kofa jep be. Og et loinete ja givuk dedvi hajet egba ro wo ovo kajgajo jazopisa baccuhhi micopav hoedfuz wik gote. Luj zuzgut ukoofig luwku ziwlit evsez zar holiwdu va bi keha vu fawsu fi fupip necfi. Sa esnotga beubpuv zoileja tuf etifumnil sin ighuda wu jafera sabzud mook zu zutopbi wironan ihejimnus varuz fetnabej."
+  },
+  "apiKey": "1db39807c40a16fd123e805f9b48daed71cbc43e889900b5e8065e45873e5ed2",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
