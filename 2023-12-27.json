@@ -1,0 +1,26 @@
+{
+  "name": "Emily Morris",
+  "age": 19,
+  "address": {
+    "street": "Dozpe Trail",
+    "city": "Beklieri",
+    "state": "MI",
+    "zip": "41928"
+  },
+  "contact": {
+    "phone": "(828) 826-8337",
+    "servicePhone": "800113335"
+  },
+  "birthday": "1986-12-29T20:46:56.086Z",
+  "ip": "213.179.84.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Eti mohuc sud ni om legawu eteili ajwi eremiom muna vih ibco ziif zag eddago. Nonvozbo vezi vawa jede hiudivu bidkonhof viome ujriwa kawu sem jihpo itamekwad ge poreho. Sultubbec ojte gildo zesguju sepge labaw buil gas mam circupe we vir fubdo. Lor lu gu jiwcatho hituce errile tenzakoz liadko mutma ecniwe udi siszu. En me wiku pulutuh jiiw oz suhteri muhevkuf zenah dihpajib dur cecjim ba lazce gimudub. Get be ogubiv cir wa nehvuki demtela puzibol weeb laira cezi pucvev derepal.",
+    "bio": "Danak vejolil tuape dawaton gogvekom totorror ninruc ad ha miola oh kapkufa ceohja. Wutij lonpofu ig sijasizur gagef id nuzilafez viiko ji ud wawnef fehefon. Evusepu vuzhep fugumuak liviuzi zaka ewtiave zuvje hibcah ve keda one sinak rurakliw."
+  },
+  "apiKey": "e55c9366cbb3b7cd392cd62c7954ad3258871c498fb410eefdf206a45f182b2c",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
