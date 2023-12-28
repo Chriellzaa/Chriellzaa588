@@ -1,0 +1,26 @@
+{
+  "name": "Josephine Lyons",
+  "age": 19,
+  "address": {
+    "street": "Odevec Path",
+    "city": "Ebizirga",
+    "state": "DC",
+    "zip": "28553"
+  },
+  "contact": {
+    "phone": "(511) 338-1264",
+    "servicePhone": "800935233"
+  },
+  "birthday": "1996-03-18T20:09:38.575Z",
+  "ip": "130.2.11.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Egipigju oz cib ica gebkebah gahoum tid ena osdor zocecep zefgohap oki vikortu jekpigki bah cike. Fegesas ziedeuh banuzoizu ge li upa negakser ere feg zuh reszapuc imca ilijo jogwesmiz cirgunmaz dis de iwevipe. Ila poazuaw ne gosrozib ririmi tavgumbi oliun dejo sibniv gahfi ba cencaf. Pemovet hiffa budaju woliguh mowod wuofejo ofuezhe foduviw zut pu rotho kesnizwo vobdu.",
+    "bio": "Lefiho owebo tud bod oj ulokus fuw sol rah paivias evajo dascuhpom moik calpeb dawhop agpanew. Jefupvo bov boowu lucabtu inke ketujito ru vem mepsoj ifub anodakri rud cofon ene. Goviv epasi nukekuf ivpo dogef guigolig aj evdu be ro jaj ce."
+  },
+  "apiKey": "e8a030db227b7c8b7e02cd51410b059bbae839d4705c59b84ca7f02c439a21a0",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
