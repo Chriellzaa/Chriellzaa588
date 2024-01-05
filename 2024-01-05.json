@@ -1,0 +1,26 @@
+{
+  "name": "Fred Thomas",
+  "age": 35,
+  "address": {
+    "street": "Hanbe Manor",
+    "city": "Kefwivde",
+    "state": "NV",
+    "zip": "14390"
+  },
+  "contact": {
+    "phone": "(336) 700-6626",
+    "servicePhone": "800677153"
+  },
+  "birthday": "2004-02-22T21:46:00.930Z",
+  "ip": "197.124.62.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Mavat zi kiogjej umub ri bekriv ra igmenata od vataguba fi eg gal civ cojobi uv otku. Gaone fomkahu tupu vahwor jevtosan kucicmo savib oviag ramadnu jadcepaju voscudim vopbekiw tur kit se maluhed. Vipjaroh bugiz cuadoesi nebjo iwpa vuhawa toh igagogfuj piw gavo jafebej monule. Dalnazez nobu wos wohi vi omiotwop gunecan zukiozo owasar takbudeg uzi raawliz. Zeehzu buhese heg winho zuikana deh kabigi zub ole ro omob upgula. Za bez non ah zetabi bokujto gekluje pucen edi poke gasrofin rigni ekijav zodjo jusrijtel sehukike zobedit irorevar.",
+    "bio": "Ba le biusaro ja nelta rajmec za ab jij ale ez vuddahuv raubu am jepecubo totsioh peju ur. Roaheiv mos it vovnazlo sivzachas fuvuheped ro hozmallec vofraji utecifu vek holem ritaju. Tovmij gib mircegi ojacaabo watguvrim fa cowup napek huw uk rode lito lodwi wudnoca pejro oma kaw ode. Hanajah bimifo vibila tuzfani vi rab biv fid depjugre no bonor liz."
+  },
+  "apiKey": "932080b618470a43c1094e7136c03815ed2a7758a21b5d5ba440097bab879e99",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
