@@ -1,0 +1,26 @@
+{
+  "name": "Eric Romero",
+  "age": 32,
+  "address": {
+    "street": "Obba Place",
+    "city": "Vijehco",
+    "state": "OR",
+    "zip": "04226"
+  },
+  "contact": {
+    "phone": "(900) 938-9026",
+    "servicePhone": "800362196"
+  },
+  "birthday": "1998-01-10T21:45:11.396Z",
+  "ip": "161.6.169.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Ciz me cuzrarjo bemceig sekguf sacdoka wi ca zensodon utwukwod vovig kommu umi ba notigo ganefced evosomfud. Ib burvozet uw godiril civ en hosli zufiwgu eghu bijorfe ezu mecom uwotaveb fovephos uvahehsi. Cila dos ajifo agow nogge hu romdib rule new tic vuj raf ivevenzu wo. Sa mun tu jiwur cit ihe ned cinifil cuvoj uh do jiilo tomcep jiaffur naz ajize. Ade zadodhe nefpinpeg puhro pez wughezap kebokad jen pibpima ar wuja ku idugakzol vuseb. Tokufeez jopweb icoci lusfudvol dofuf hotnerot kek vah malhavic purale rihvilgot igieb sal juh nevme wu.",
+    "bio": "Difivpi jepzagra aki weto obwuhtob bi cu pubdu jovdog lisifo cu pisu zatzo finobviv. Zon bulruvge cavalug subevnut togloaki po pagemo sufgeson ja foisorov jissef sejiro epe. Ir etocupsi minwuke sav si jeucumu few nofwan wepgaoko huujlo ap segvedcaf ves zevac wusi fohi tis af."
+  },
+  "apiKey": "c5bf669a73d9844885a7c31dd5e771435d4af65640464b13d5d8a1e839a6174f",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
