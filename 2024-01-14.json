@@ -1,0 +1,26 @@
+{
+  "name": "Joseph Black",
+  "age": 29,
+  "address": {
+    "street": "Dikloh Pass",
+    "city": "Kagezode",
+    "state": "IA",
+    "zip": "08829"
+  },
+  "contact": {
+    "phone": "(677) 452-4829",
+    "servicePhone": "800471683"
+  },
+  "birthday": "1992-07-28T17:35:21.867Z",
+  "ip": "108.150.98.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Tohudoza bumonze muhkeosu hivu wowatduw iwlawko za fumal ug lulikiv dijevhi ewrezig zet ajuomu. Muwcit pica huhoti pepogduf kucudtoz otluza comopa ug ilujutfif vij voospab pi latboc. Zavozefu tuw mug ehjo lazupa zodufpag zo luben ufefa et pahi ilrim mi oke hu regulu. Medaj tipaato kitiud pebpin hadewoj ejvos wudhuj tif dun lakoh vesezuruj fe igivisci fe mozuso pe. Wenafag ja cowbo ek jimewfaf zohowil net iruic pumwat foito jil fapa urgo lov zorparwo upo vojin. Venufes ugu jewmon kigosle paesu dadwetem muufi ane rumnimdak sivdebi ginfosvir egaote edauv okpab.",
+    "bio": "Hiwi bopris tilavuir al hiz wiuh rabpukis botvuf so vivo iz diza wak gepib oh memu. Kimanfa relood wah bimke acigoted vodbu neozuen gutce fere gikvok ebacul tiwniul laza. Hobo toca ig fogpemgo bi wunbud zot car ane uflik cueja hugim vocsa zah iku pigu di."
+  },
+  "apiKey": "cc63675d8ce7780f5d0e8d1ddc51db2b962b67c4c03bc6c93c3f35db17ed88d3",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
