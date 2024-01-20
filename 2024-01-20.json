@@ -1,0 +1,26 @@
+{
+  "name": "Kevin Lawrence",
+  "age": 23,
+  "address": {
+    "street": "Cugguk Square",
+    "city": "Dacevli",
+    "state": "VA",
+    "zip": "08527"
+  },
+  "contact": {
+    "phone": "(317) 628-9272",
+    "servicePhone": "800768298"
+  },
+  "birthday": "1996-03-11T07:05:58.731Z",
+  "ip": "65.99.200.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Rium jeghugbel egrol mok nagded pufizbuv vot jinwiok suv do naafase odmo bi utruur. Malmur ro itmu caf no pu fe cazgo fabfaswud rarzul zempum piujvad povata jelebheb. Zebo let be mo guvvisge bekec lo ralazneg ra bepaku na araaza nulgeow jenimsin dimasdah vooj. Fada lod suba senut geagu cu fe nauwcul ugsimcih pojbeer fan fis fot fucep ubevi zoso bovif. Cazfaba nicohsum bubriji jumni benzov jafa nalura ava cu ake es surmab nujo cupikaz juffo. Lu nesa ukzuf rapelu ozeoguan so racfahome bocto sagobet gu hu vad zecefaso iva uloumpo jegbac anenakcu.",
+    "bio": "Jafat kazcit siphe warbez mol avijujov fa ziik jar maacaceb ejeujca habampu je we tizuwfuv. Vujhakiza kagrip dafah siecun fom ko anrad muikluw dobe ezewowhe nule kutnijoh erazlap nunho mutoka sauk. Heguwni pab essa negcahzab miiroso do ro im kujeg reajoza midrihci zof lacvozag atcumwo adihuvag jos mocjoumi. Ofa zimev tom bugnioho likuje loc zot pamuwe kib nufvez kuz wel fefenuf osinaolo."
+  },
+  "apiKey": "fd39f4cb08960fa685b569b1c7cec7d78f5c8931cb77e1b8c0197bca0f18f43c",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
