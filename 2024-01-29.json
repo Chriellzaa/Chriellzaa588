@@ -1,0 +1,26 @@
+{
+  "name": "Flora Maxwell",
+  "age": 18,
+  "address": {
+    "street": "Zagrih Circle",
+    "city": "Punige",
+    "state": "NC",
+    "zip": "74287"
+  },
+  "contact": {
+    "phone": "(873) 365-8653",
+    "servicePhone": "800446955"
+  },
+  "birthday": "1964-06-02T14:25:02.520Z",
+  "ip": "145.45.108.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruca elapidtob gewik vob duzru movuhvo ma oha vofi medmiiz fuja emoni fur lu devaci radja moojwij. Muz ni wuh ugce agka tid humef ta baffajfu wocuke ku tauh metiis. Hodugre uh lecakere hof pareh mo niwref pabim raru zuzzabu ip wofpozlap meb gunbeaso igbavem lomepgov.",
+    "bio": "Niru medlifve poc vigu bo de tagkok ic ci zelguaz buli lo ipi verivag hit. Nornutmij fi vipri visnocram tukkalfag zucime fefci didetauc homo mo zaga fi eh uvsu hatnen icowa ji. Mi fuhuh fubu hi adwum bud nevbi bumejoga gowazce normiju fuvi nadjame jibmob elkidkev hir ajtuavu leb gobcagted."
+  },
+  "apiKey": "068cd0370e3790d6a60a26907f9a91d55dd389d2e81ffd88425b0ab096c71729",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
