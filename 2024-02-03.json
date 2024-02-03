@@ -1,0 +1,26 @@
+{
+  "name": "Owen Chambers",
+  "age": 26,
+  "address": {
+    "street": "Fumi Plaza",
+    "city": "Niegvo",
+    "state": "OR",
+    "zip": "07809"
+  },
+  "contact": {
+    "phone": "(813) 894-3390",
+    "servicePhone": "800888779"
+  },
+  "birthday": "1984-05-25T17:48:19.680Z",
+  "ip": "36.148.190.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Nuzu umneh erbozza zosza duf terlo duvpuhcu keva siz woatumob denbizhu lufcim. Sasocje uvsunvo ar ipazon tep sinba tig kaklit muukobab iv dis ru zofimi. Ga vi lovapzi ocpe riha dur tuf socudza ludtoga ke go ware howsi rap ru. Vahzaj iwedofzid tehdi teita unupuwuh bizzi cu vizibmih oluusa kuk jebemepu bevojgek tepofitu huegeho serluhmu. Ferbet rawof usjesfa imahelfek ob usudosfi lokdob go zevut telicaw domperzo honkupkoh feodiiv nughedfan mu vuskud vaz.",
+    "bio": "Duwsi huso ove vejokcul mupsewi repigov otucug cod wokow murcekit zo rinnevro elibusji hav ip. Zihnovas ipohip ahbatoj so emezew fujsuc matoc ege ku digegik gero ceofa lefelez li tivfo velni. Cuisi fi cuwubgef botkiscos if hako douksec pavhojav sagiwvab cabnu nazajeg inugug fe. Sotuca ni seca ku zavameh muw pazbowmi nujnojob dutarec anlif ibo iki."
+  },
+  "apiKey": "71483b60b6a846ea47cc49ae1ab7f39e7550ebf8db02c9311926f7f3df57d83b",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
