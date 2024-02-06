@@ -1,0 +1,26 @@
+{
+  "name": "Christina Massey",
+  "age": 42,
+  "address": {
+    "street": "Caev Way",
+    "city": "Jucwunej",
+    "state": "OH",
+    "zip": "23612"
+  },
+  "contact": {
+    "phone": "(910) 499-5008",
+    "servicePhone": "800942292"
+  },
+  "birthday": "1996-08-01T04:59:10.716Z",
+  "ip": "113.10.112.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Roriat vofawtit urho citoci abgipren wenazi ijnubiv tomzop vezedtuc fu pehhoddob nomnuk leuwa. Bu cokro facrezwaw ege hono poruhon metu zi hedke jofefsuh lup uvotisur ijre ciwedgif tazaji ruwvuhi as. Voja sizjaw rihgauj megilil badetdak gezaka bagufati zuiw otije pa isile iwutiji.",
+    "bio": "Cez jod ofaze ukuwekan fa imhozum zafebvic pulsugak ik hogel jufrazra ic. Jewe et bi ifwo pamud dujeka lu ebne zu zuda opizuzir cisbefuzi javabonep. Tuh ujese luafe raho saf wazo of jicvo gi maadodo at badjec tosacu neh wolcike dillop gocug pomud."
+  },
+  "apiKey": "01741701d3b54e91b657a0e4ff4efe1195435db48dbe65ecbfb0efe167e128b3",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
