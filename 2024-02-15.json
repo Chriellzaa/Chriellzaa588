@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Herrera",
+  "age": 46,
+  "address": {
+    "street": "Zizeb Mill",
+    "city": "Kiwanse",
+    "state": "DE",
+    "zip": "26823"
+  },
+  "contact": {
+    "phone": "(979) 891-1457",
+    "servicePhone": "800428798"
+  },
+  "birthday": "1992-05-06T00:25:37.166Z",
+  "ip": "175.24.73.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Beniru counuko havloz mecworih kipvap itu nurhibo ho jijfegku amkukoc ivo daobmak pajed. Kid maf dujrujede gewo na mizes ec ag lidpudis zuduhuan eduah ebo. Dekkolas fummagob aweate uj rijofor ofwah tarud mu metfehov pepabaca sege igcebo dobe anoafo filfu ne.",
+    "bio": "Somubviw memjo ilniz raku siv wadsi ovaemefol acrudvik uruet vutuohe dikuwbal evpof leco offufuh ziv idu. Dopebruf varwovuto penav loorhas bo murejalo vafgu omu ziaki venup eji bo pic elobawul ru ci hahohe. Wijugin rib nojjuj wupew fewmu ziziwfe zew asumahi gara ligah ejepuba lajtep avive do wuw su keznu. Vi nuf togvazel vehjitin gase ba ku duc melur gocis tizval bipew."
+  },
+  "apiKey": "22c403b6f1b1aec725267bc1c00295adea3ae6e05547265520a56e93bd55183e",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
