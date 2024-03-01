@@ -1,0 +1,26 @@
+{
+  "name": "Marc Soto",
+  "age": 22,
+  "address": {
+    "street": "Muppu Extension",
+    "city": "Zargifav",
+    "state": "OK",
+    "zip": "90197"
+  },
+  "contact": {
+    "phone": "(969) 303-8841",
+    "servicePhone": "800623325"
+  },
+  "birthday": "1987-05-27T03:07:38.516Z",
+  "ip": "207.210.221.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Legsov lokonvor sig fezasik ruffulram ijuibur degguuk ek poc fawri lial wazi imazakoc bu nap. Bumis opotu zedzor uvhawuz riguaw hefon ped ecemije kob tenoli cuc fosigco jevoova ap sihe. Kuceje tugen polat nafe livevu okowuwza lozime cuw wesobug zu ko rode samajo zo go ro. Sentud fen menad avu cudutim puha sitribu nivirap do sumezic vip gohcojef dece wenuj um wusoriot oh. Rehatze dutukwi sogba nafka ru wudwupfu fotcoco ga owadov rom saftig iweseti tudbolfi nivmuruj ezsu kilgol.",
+    "bio": "One la hariuko hel ozkuvig hedkez feruk huji icu owzu muj zig huz. Zugjuv mal ruwzomseh tafakuzu mug vobfac ob poop vebdacipa attamto daatu kudum ka habpafi. Ciowuze sudetlo got sat molizo mizzuri rifzisa ipeozoc umicajaf kemwari nej wekuj fi dorekek ni. Agi ki bamwif re olsaha hifoog sivkanike latteuhi ib ro sa olifeh ba cuv zihavco usli gude adkuh. Totsadri ufwo tidna soh wuppoca mebvinog ehnob bu peurihe ev jewzidos olreh sik za unusuek genki sen veajeuhi."
+  },
+  "apiKey": "9b7696283b00eeef349a9e5104bf08fe517649b25502ca6cf975f165d91c1b9d",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
