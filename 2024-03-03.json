@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Summers",
+  "age": 34,
+  "address": {
+    "street": "Jibke Road",
+    "city": "Cujavub",
+    "state": "CA",
+    "zip": "02461"
+  },
+  "contact": {
+    "phone": "(526) 691-6206",
+    "servicePhone": "800561638"
+  },
+  "birthday": "1982-04-09T20:23:53.872Z",
+  "ip": "92.238.165.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Wag paphif ubeipu juzoma kedaf sezum ivobe fop ge kub kivbiru vobap ide ja lodo ula. Nu odtibkid uca diek fosud vificaz ulgute bebgejuv je umferazo lob ce pek inika. Cikjuf bi is bolicise netavos revo wuesu egadip guzoleg sidrek biuv zenusa ojo dojaz si sieho jiivoji. Et keer vulor gos va ceflifub kuj poj zo ur vajsi vuk. Ivho vow vaj ewva antec sukahuopi wod jimiehe lak murid azu atdoewi vavezu mese zuibitu icicijom. Si neh jelo nesazi erfem oreir ze ogubacbel bowuzoih ko jir jajiwkes tisnuc sezaca lopoh pugkewvev.",
+    "bio": "Vif na awnenwup jerirwe wej zoufeh hiwubuvo waic raazva gadasiji takifek baalfu jobukgow vitji. Lunnu bufvekhi fozoti ekgebtu ze oduh dirla tifjokoz nolawur pimpulos iwwibo awhi oc vov zekzov. Bir kum oceru fifehmim ejowev ef kofbuovo fugpusbo ti dufi rauleop meh rakloovo co luwhif fuzo nuvuhmu owulelbe."
+  },
+  "apiKey": "1e7686da92e932daba100d6d12f5098dd99163e90aaa25caeec42f178665e728",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
