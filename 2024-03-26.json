@@ -1,0 +1,26 @@
+{
+  "name": "Austin Davidson",
+  "age": 33,
+  "address": {
+    "street": "Dega Lane",
+    "city": "Sedmolrub",
+    "state": "KS",
+    "zip": "46755"
+  },
+  "contact": {
+    "phone": "(703) 245-2618",
+    "servicePhone": "800152264"
+  },
+  "birthday": "1961-07-21T22:36:11.355Z",
+  "ip": "37.241.119.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Luztusona nabe nocis doitowe ope weugohum eb bavepuz om siwen botov wakmef. Cavpah uji uhowi ganu cec miebi bup kazebcu degaho go dothuet tisda ziz kalegu hu mah botna sidlindom. Vum pijocju iwekun jiv ohi esmomo beniwedo juduscu kevikpa cottam alu ulipu is ke bo. Ufgos nicgo tuswepom mimudgo gumole vekot ibajo poh nipzi cibpig lo ne bi dir damhoti gukov.",
+    "bio": "Fual jakabed edjohre vehpihuh lik nes subhijud nagan erza ki umojit mernoadu neafu powewejin belwu. Lik ije fa niskeel ta rov kupa erfim juvme zal pof aso ogzaho. Ucigi ibce juhmogi ovakeur livpifwog sipor togi do uwo boc hoguwe movol fofifka."
+  },
+  "apiKey": "38018ed5040ff6d23d2d371630d48d5c4b0fcfa753372141418d1f336ac9e987",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
