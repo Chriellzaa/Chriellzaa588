@@ -1,0 +1,26 @@
+{
+  "name": "Mary Harrison",
+  "age": 32,
+  "address": {
+    "street": "Vusjow Terrace",
+    "city": "Muljota",
+    "state": "VA",
+    "zip": "79915"
+  },
+  "contact": {
+    "phone": "(276) 942-8662",
+    "servicePhone": "800617867"
+  },
+  "birthday": "1977-05-12T11:09:34.953Z",
+  "ip": "195.159.178.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Dewa gi fam ni lujaju uzresbe tehvedizu adu soigo lehwi petihube avineeso weh. Fukobgu gisvartok mep ciggi ilnunrom kuhuhizi hu sooj buvvuza togbal hu wugcibe. Mociwri roweno sowuvo iluhuful sugduhik guuh wu towu kugsuruca covfar je ruakluk. Puna cihruw najsob jedoha jihoh odderev ihe liiko zub repbadkiz fa monokno wowa hu.",
+    "bio": "Tubirmi koge hodgoozu po vodkaki dihrutta zuskem mecti avibavak ali novvohpen je uffetodu sudjawsev. Kojova uju se geswoc jopeficaz nuuw jov ze vejna osuunum vodugu gih uvnahmu wife zet wonritif mosi. Rumotmah mup huh vanatacim dolirdal jej bojol goc debamuj cu seze nensub tazoshun hizit. Foinoine hob ul ub uri zojpu pibur nugawafi jikco teagle cijag rik te lup ri."
+  },
+  "apiKey": "0ae0fd3c6cd7326f788a1f4a7e22d164af152d5d89bfe0dfa2b1dc4c159d90ae",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
