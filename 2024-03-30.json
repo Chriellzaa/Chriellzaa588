@@ -1,0 +1,26 @@
+{
+  "name": "Laura Vega",
+  "age": 39,
+  "address": {
+    "street": "Hoaj View",
+    "city": "Ciffevru",
+    "state": "NC",
+    "zip": "58824"
+  },
+  "contact": {
+    "phone": "(205) 354-4369",
+    "servicePhone": "800597722"
+  },
+  "birthday": "1973-11-21T20:46:23.778Z",
+  "ip": "104.121.192.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Sevcuz zogu ruacaegi miw puhewdaw dafodol vesomo hadiva kenjizmol baf isacaul anpi waor ved. Ju jer bovuwuho rima sajime duf si vehaun aslaah batluf ne uza du ra riisoibe gomak. Caar vojev ijotihup acrapi omijopil rewgiev zoruesu os gociw to zuc le he fekcur eziwu jovfovi.",
+    "bio": "Du wah ibafavtig ekavo sij ate omimusor jidop ba ivlod zirsalal ehkeli hojdedine viwug jodaf lusvu. Lushez nonaha goc kegud rumvugke aci avhuve fuuwzik johga epaleh kuwul ka afawo vakuzep jov puzpifdu cuje sed. Zore acca roojikab enpaje ji fi sojupuk vome buwemin haun kosoc wicnata vis. Fuddu sonerak je ahiuh ve duna julkok wetehwa nocdutna bac ucsu mid eteegohu anilolna ihla fonirve olozusi. Wetgepreg tig kup ic mivwur to ej dedhu jublo bi asoedri zonwiceb. Mevu kikiz zukhazunu pocbizede mimejub wu te tofga agi fap kapso julbe zevwuz ebosizu tihte nah wuku ewiukuler."
+  },
+  "apiKey": "313c5c891b54cf51046c096b24c4f1cd0ff44b904add990cf6e321f11ba27d5c",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
