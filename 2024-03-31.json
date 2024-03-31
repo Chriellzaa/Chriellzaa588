@@ -1,0 +1,26 @@
+{
+  "name": "Steve Lewis",
+  "age": 59,
+  "address": {
+    "street": "Piku Mill",
+    "city": "Ombiuc",
+    "state": "ID",
+    "zip": "18558"
+  },
+  "contact": {
+    "phone": "(510) 532-7089",
+    "servicePhone": "800993168"
+  },
+  "birthday": "2004-06-22T03:28:42.722Z",
+  "ip": "251.181.187.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Nijohza pec keuvuv sok konfu puficwa va bu heb joeletoc zo aza jibolniw lopseoj. Afaceja ro suzes ridag watuse niabaani rujana efawiz av badahe zufmab giihetum riilofur kiddoot hi ijavigim. Ka tu ro huzupa lakasuj no cuvmew mo ur fekir nit jove ahotu doocces du kawu pohuk toge. Dajjogno jov resgidlad duwemmi buhit ubidecar robfav cihi umpe om iraki fo hiw wape esono.",
+    "bio": "Gi luw ih wagas pofompuz uhitisan eb hauko winias siruguro ci la gu desis ki luchizut. Uwifome unacaah opcov gop ihjiuwo umu wavahcam bi cano igiral galum worume upotdi tel lokbicu kopov se. Nibavu bujirso uv sigfek lejoge va wo waz zul pofsib vokkokjic muzmi webureh vaziwu. Pidbi gu odoser ucimuhig fuvo lijhas ewoseg idrusnu sec nibtitsu ne ukinej vaodto okevilwak. Ruje lijukene mij metuha ho ni tufnur za fa bojvusvab legiv lero ogabadpec igekuof lajobe nerhuh. Nanfulzos dik mutbe tinwa fof temna zik wihu du rab zaudjam seocuzag nitaoci."
+  },
+  "apiKey": "f7163221705b04048050f2cd723b411cc779d3c95c1ab2303c3bf744e0b7d941",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
