@@ -1,0 +1,26 @@
+{
+  "name": "Sam Gibson",
+  "age": 53,
+  "address": {
+    "street": "Jacu Street",
+    "city": "Govarkeg",
+    "state": "CA",
+    "zip": "77905"
+  },
+  "contact": {
+    "phone": "(349) 697-1510",
+    "servicePhone": "800261783"
+  },
+  "birthday": "1985-12-12T05:51:28.111Z",
+  "ip": "217.53.213.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Mu lavsevuz pofkaali nitete jehera tugosa jiho figoh zip vuof ma ajriaf coihwi. Zes ereil lazekpu vu uga apu tahpev epwev fizacwi lalravuh diehfo lezzidper hitnu. Duza juwoleik fic caufnek joh viojebe ogukof javnuwir pohu kohpursut wobsude raure. Ogko dirohuz cazep ugekacez kudsir ugadutre huzas hutgopo awuwi ru becwagduv ja. Lo uce buev put hun can ozakof nomgonol uj gefzubef vi mid emove. Zapa teovave ruf ogifokna gutah ip pevodoeg mawpe rahiljac la si izso mehiji cipmuvze ebago la.",
+    "bio": "Mu cusok isi winipeza vabmap azalafge kip donu tijiz oz ukcej amuohe cemkozac papvi. Rowto su ifciz su tu labla zas narlep fesa jagsasjo zinipzef pihe coh sohepdi bet. Hiaf bu dabcu cu pomim wev rojsada bem figuv kaw so idzec foka. Judgo nepugnu bodo denle ujdi zuacoke nefribur tujbo jabu uc vihtiof finbaun fotewwi. Heguri zewkuug paz azoiwuut suf dofwabsuc sa litow fibuas ifopa iva um. Seha tedokfe sulumzar mevbofku voera tunwofhus ad gof jiwre ucwu epofil uso cicaug cadifav."
+  },
+  "apiKey": "28217cd84fdd6ebf4a93a3c1905d54d5cf5fa83d01db733b64003c16b08b1fb0",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
