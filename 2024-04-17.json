@@ -1,0 +1,26 @@
+{
+  "name": "George Wong",
+  "age": 58,
+  "address": {
+    "street": "Gisgu Circle",
+    "city": "Vefulife",
+    "state": "NY",
+    "zip": "42245"
+  },
+  "contact": {
+    "phone": "(586) 673-5996",
+    "servicePhone": "800887312"
+  },
+  "birthday": "1959-01-04T09:58:32.074Z",
+  "ip": "145.211.134.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Wepa udrorapo bocaali utoiwibe evo uromu jijo idujad luvzut zididuz on pi bu zekirfon. Zubni gotavheb fesob saerjar ba rogigtan sizwu jom dobu apomow ted jureho seno kaskit. Jij ag vuwi efi bababe re al wagooja mehar dajem pefem jopap cuzucuze ba gi sodiwa. Fowoj zijot otuhwi umi ahceler amfeva iza nitmaz ta ka ropumi huckiw peb laba cih sojewa ve cairu.",
+    "bio": "Arar dir zu cuofaod ka luc ipaaze piwiv otkomjal zagojci hen alemam nesami ezpid wifewlir sin urebi. Lewale eniwfi gezohuf kibbot pevok zavovdi minodno kad su ubu atefot jotille eh vefrikja hatis tecjefce difnurad. Jenedro nocke do jipfe esgewizu ahpak loobiud dafibhi peneldim cusvinma wakmez vefhalme."
+  },
+  "apiKey": "f3299a22d779c6d74a7dbc884cad168dcb03ab86ca14ba5e454dae825005853f",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
